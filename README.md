@@ -1,2 +1,2 @@
-# InvestInsightAI.github.io
+# FinStockAI.github.io
 The main website
